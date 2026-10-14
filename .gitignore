@@ -1,0 +1,14 @@
+# Dependencies and build output
+**/node_modules/
+**/dist/
+
+# Local environment files and deployment credentials
+**/.env
+**/.env.*
+**/.vercel/
+
+# Logs and local OS/editor files
+*.log
+.DS_Store
+.vscode/
+.idea/
